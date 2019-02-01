@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="real_play" size="0.120000 0.180000" />
+    <ImageTarget name="fcb_play" size="0.120000 0.180000" />
+    <ImageTarget name="realmadrid" size="0.070000 0.070000" />
+    <ImageTarget name="fcb" size="0.070000 0.070980" />
+  </Tracking>
+</QCARConfig>
